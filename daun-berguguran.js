@@ -41,7 +41,7 @@
 			  am = new Array();
 			  stx = new Array();
 			  sty = new Array();
-			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
+			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "gambar-transparent-leaf-vector-png_42880.png" : snowsrc
 			  for (i = 0; i < no; ++ i) {  
 				dx[i] = 0;                        // set coordinate variables
 				xp[i] = Math.random()*(doc_width-50);  // set position variables
