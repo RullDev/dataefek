@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://image.gambarpng.id/pngs/gambar-transparent-leaf-vector-png_42880.png/snow.gif";
+			  var snowsrc="https://image.gambarpng.id/pngs/gambar-transparent-leaf-vector-png_42880.png";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
