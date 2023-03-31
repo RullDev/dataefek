@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://d54e408f-a-62cb3a1a-s-sites.googlegroups.com/site/artimasterirhamna/snow.gif?attachauth=ANoY7cplF1w6SahPk-yteapNpVgUksozw4EEB0GnQYJQi9mvwVW7SXtXkUcRPRoyO-z0eibDeuv2WO_oIeD1vdI9DoUbD2-A3dReKwoiMG486S_B2JLFbcqkEV6lzczu2jfQUgQ6EcZNZ_yUgd6kiyCDcAdPYhH4RVUhD0zCPavsDlRVDJZFFYUfRiHxSEZWcjh6FlHAzU_QGYfOPZuObUkN23rwXx-uHw%3D%3D&attredirects=0";
+			  var snowsrc="https://w7.pngwing.com/pngs/99/645/png-transparent-green-leaf-leaf-green-plant-euclidean-leaf-maple-leaf-leaves-leaf-border-thumbnail.png";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
