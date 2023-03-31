@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://w7.pngwing.com/pngs/99/645/png-transparent-green-leaf-leaf-green-plant-euclidean-leaf-maple-leaf-leaves-leaf-border-thumbnail.png";
+			  var snowsrc="https://telegra.ph/file/41430928a3a38d29b2308.jpg";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
