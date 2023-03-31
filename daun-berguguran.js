@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://telegra.ph/file/41430928a3a38d29b2308.jpg";
+			  var snowsrc="https://telegra.ph/file/41430928a3a38d29b2308.jpg/snow.gif";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
@@ -41,7 +41,7 @@
 			  am = new Array();
 			  stx = new Array();
 			  sty = new Array();
-			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "gambar-transparent-leaf-vector-png_42880.png" : snowsrc
+			  snowsrc=(snowsrc.indexOf("dynamicdrive.com")!=-1)? "snow.gif" : snowsrc
 			  for (i = 0; i < no; ++ i) {  
 				dx[i] = 0;                        // set coordinate variables
 				xp[i] = Math.random()*(doc_width-50);  // set position variables
